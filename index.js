@@ -91,8 +91,8 @@ let messages = []; // Chuyển sang `let`
 
 // Cấu hình
 const config = {
-  displayDuration: 1000,
-  intervalTime: 17000,
+  displayDuration: 4000,
+  intervalTime: 8000,
 };
 
 let autoInterval;
